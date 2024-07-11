@@ -1,4 +1,4 @@
-package vetores;
+package fixacao;
 import java.util.Scanner;
 
 public class AlturaVetor {

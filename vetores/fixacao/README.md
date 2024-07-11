@@ -21,3 +21,8 @@ Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seg
 
 ## Ex. 7 - MediaPares
 Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for digitado, mostrar a mensagem "NENHUM NUMERO PAR"
+
+## EX. 8 - AlturaVetor:
+Fazer um programa para ler um número inteiro N e a altura de N
+pessoas. Armazene as N alturas em um vetor. Em seguida, mostrar a
+altura média dessas pessoas.

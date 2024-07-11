@@ -1,4 +1,4 @@
-package vetores.fixacao;
+package fixacao;
 
 import java.util.Scanner;
 
